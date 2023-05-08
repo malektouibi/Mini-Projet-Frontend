@@ -1,0 +1,98 @@
+.topHeader{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .topContainer{
+    text-align: center;
+    margin-top: 180px;
+}
+.text{
+    margin-left: 450px;
+    margin-left: 0px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 90px;
+    font-weight:600;
+    text-shadow: 4px 4px 8px #fbcf18;
+    color:white;
+}
+.topContainer1{
+    text-align: center;
+    margin-top: 45px;
+}
+.text1{
+    margin-left: 0px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    font-weight:400;
+    color:#fbcf18;
+}
+.form{
+    text-align: center;
+    margin-top:100px;
+    margin-left: 140px;
+    margin-right: 90px;
+}
+.textcontainer{
+    background-color: transparent;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    width: 400px;
+    height: 80px;
+}
+
+.t1{
+text-align: left;
+margin-top: 30px;
+margin-left: 15px;
+margin-right: 10px;
+margin-bottom: 50px;
+}
+.text2{
+    margin-left: 0px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    font-weight:200;
+    color:#c3c3c3;
+}
+.textcontainer2{
+    margin-top: 25px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    width: 1250px;
+    height: 200px;
+}
+.t2{
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    }
+
+.buttoncontainer{
+        justify-content: flex-end;
+        margin-left: 660px;
+        margin-top: 40px;
+    }
+.div1{
+        text-align: center;
+        color:white;
+        font-weight:bold;
+        font-size: 1.5em;
+      }
+.button2{
+        cursor: pointer;
+        border: 0;
+        padding: 0;
+        background-color: #fbcf18;
+        border-radius:15px;
+        width: 190px;
+        height: 70px;
+        flex-shrink: 0;
+        overflow: hidden;
+        transition: 0.3s;
+      }

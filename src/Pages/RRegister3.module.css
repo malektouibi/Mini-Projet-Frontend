@@ -1,0 +1,25 @@
+.topContainer,
+.topHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.topContainer {
+  flex: 1;
+  justify-content: space-between;
+}
+.arrowcontainer{
+  margin-top: 623px;
+  display: flex;
+
+  
+}
+
+.arrowbutton{
+    margin-left: 698px;
+    
+  }
+  .arrowbutton2{
+    margin-left: 474px;
+
+  }

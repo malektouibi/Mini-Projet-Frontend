@@ -1,0 +1,10 @@
+.topContainer,
+.topHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.arrowbutton{
+    margin-left: 1330px;
+    margin-top: 635px;
+  }
